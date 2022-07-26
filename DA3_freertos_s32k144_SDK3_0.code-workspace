@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"boarddefines.h": "c",
+			"printf.h": "c",
+			"string.h": "c",
+			"e351.h": "c",
+			"smartrgb_e355.h": "c",
+			"e351data.h": "c"
+		}
+	}
+}
